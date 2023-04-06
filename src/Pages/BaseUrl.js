@@ -1,0 +1,1 @@
+export const BASE_URL="https://full-auth.onrender.com/user"
